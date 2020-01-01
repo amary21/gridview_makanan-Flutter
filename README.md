@@ -1,10 +1,7 @@
 <p align="center">
 <img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot"/>
+## Flutter - Gridview, Cardview with Fragment
 </p>
-
-flutter_makanan
-
-A new Flutter project.
 
 ## Getting Started
 

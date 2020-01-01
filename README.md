@@ -1,4 +1,4 @@
-<img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot" class="center"/>
+<img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot" class="center" align="center"/>
 
 flutter_makanan
 

@@ -1,4 +1,4 @@
-<a><img src="https://media.giphy.com/media/LLxGRF5fNR7Xg9eh0z/giphy.gif" class="center"/></a>
+<a href="https://media.giphy.com/media/LLxGRF5fNR7Xg9eh0z/giphy.gif"><img src="https://media.giphy.com/media/LLxGRF5fNR7Xg9eh0z/giphy.gif" title="Screenshot"/></a>
 
 flutter_makanan
 

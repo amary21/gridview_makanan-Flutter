@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot"/>
+</p>
 
 flutter_makanan
 

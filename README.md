@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://giphy.com/gifs/LLxGRF5fNR7Xg9eh0z/html5" title="screenshot"/>
+<img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot"/>
 <br><h1 align="center">Flutter - Gridview, Cardview with Fragment</h1></br>
 </p>
-https://i.imgflip.com/3kx3nz.gif
-https://media.giphy.com/media/LLxGRF5fNR7Xg9eh0z/giphy.gif
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

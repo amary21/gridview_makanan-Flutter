@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://i.imgflip.com/3kx3nz.gif" title="screenshot"/>
-## Flutter - Gridview, Cardview with Fragment
+<br><h1>Flutter - Gridview, Cardview with Fragment</h1></br>
 </p>
 
 ## Getting Started
